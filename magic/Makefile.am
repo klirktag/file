@@ -322,6 +322,7 @@ $(MAGIC_FRAGMENT_DIR)/usd \
 $(MAGIC_FRAGMENT_DIR)/uterus \
 $(MAGIC_FRAGMENT_DIR)/uuencode \
 $(MAGIC_FRAGMENT_DIR)/uxn \
+$(MAGIC_FRAGMENT_DIR)/godot \
 $(MAGIC_FRAGMENT_DIR)/vacuum-cleaner \
 $(MAGIC_FRAGMENT_DIR)/varied.out \
 $(MAGIC_FRAGMENT_DIR)/varied.script \
